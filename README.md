@@ -18,4 +18,7 @@ Direct scraping from Amazon was not used due to blocking and limitations, so Ser
 ## 🔄 Future improvements
 - Implement automatic updates every 5 hours with all monitored items  
 - Better handling of multiple products  
-- Data persistence  
+- Data persistence
+
+  
+<img width="675" height="562" alt="image" src="https://github.com/user-attachments/assets/c792798a-2d38-4b3d-a3ea-776cb6834115" />
