@@ -1,0 +1,25 @@
+# Configurações sensíveis — NUNCA suba estes arquivos
+config.py
+
+# Banco de dados (dados locais)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache do SerpAPI / requests
+.cache/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
