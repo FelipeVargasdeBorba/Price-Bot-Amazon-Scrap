@@ -1,0 +1,405 @@
+2026-03-18 11:42:29,361 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 11:42:29,361 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 11:42:29,368 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 11:42:29,368 [INFO] 🚀 Iniciando bot...
+2026-03-18 11:42:29,370 [INFO] logging in using static token
+2026-03-18 11:47:50,275 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 11:47:50,275 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 11:47:50,276 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 11:47:50,277 [INFO] 🚀 Iniciando bot...
+2026-03-18 11:47:50,278 [INFO] logging in using static token
+2026-03-18 11:47:51,940 [INFO] Shard ID None has connected to Gateway (Session ID: 7ac26e8b4cae0df3be0873123f5ba194).
+2026-03-18 11:47:53,956 [INFO] ✅ Bot conectado como fiscal de preco#3962 (ID: 1483193826893107291)
+2026-03-18 11:47:53,956 [INFO] 🔄 Loop de monitoramento iniciado (intervalo: 10 min)
+2026-03-18 11:47:53,956 [INFO] 🔄 Iniciando ciclo de verificação de preços...
+2026-03-18 11:47:53,957 [INFO] 📭 Nenhum produto cadastrado para monitoramento.
+2026-03-18 11:49:28,679 [INFO] 🔍 Fazendo scraping: <https://www.mercadolivre.com.br/apple-iphone-15-128-gb-preto-distribuidor-autor...
+2026-03-18 11:49:28,680 [ERROR] ❌ Erro inesperado no scraping: No connection adapters were found for '<https://www.mercadolivre.com.br/apple-iphone-15-128-gb-preto-distribuidor-autorizado/p/MLB1027172677#polycard_client=search-desktop&search_layout=grid&position=1&type=product&tracking_id=269f0ff9-721a-4edb-aa36-6a29aaeea631&wid=MLB4408548448&sid=search>'
+2026-03-18 11:49:28,681 [ERROR] Erro ao fazer scraping: No connection adapters were found for '<https://www.mercadolivre.com.br/apple-iphone-15-128-gb-preto-distribuidor-autorizado/p/MLB1027172677#polycard_client=search-desktop&search_layout=grid&position=1&type=product&tracking_id=269f0ff9-721a-4edb-aa36-6a29aaeea631&wid=MLB4408548448&sid=search>'
+2026-03-18 11:49:57,950 [ERROR] Erro no comando: Converting to "int" failed for parameter "product_id".
+2026-03-18 11:52:40,682 [INFO] Shard ID None has successfully RESUMED session 7ac26e8b4cae0df3be0873123f5ba194.
+2026-03-18 11:55:00,418 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 11:55:00,418 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 11:55:00,419 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 11:55:00,419 [INFO] 🚀 Iniciando bot...
+2026-03-18 11:55:00,420 [INFO] logging in using static token
+2026-03-18 11:55:01,756 [INFO] Shard ID None has connected to Gateway (Session ID: 2136f5a0c4286ca5090b2dd4edf934f6).
+2026-03-18 11:55:03,759 [INFO] ✅ Bot conectado como fiscal de preco#3962 (ID: 1483193826893107291)
+2026-03-18 11:55:03,759 [INFO] 🔄 Loop de monitoramento iniciado (intervalo: 10 min)
+2026-03-18 11:55:03,760 [INFO] 🔄 Iniciando ciclo de verificação de preços...
+2026-03-18 11:55:03,761 [INFO] 📭 Nenhum produto cadastrado para monitoramento.
+2026-03-18 11:55:17,931 [INFO] 🔍 Fazendo scraping: https://www.mercadolivre.com.br/apple-iphone-15-128-gb-preto-distribuidor-autori...
+2026-03-18 11:55:18,944 [WARNING] ⚠️ Nome do produto não encontrado
+2026-03-18 11:55:50,364 [INFO] 🔍 Fazendo scraping: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-...
+2026-03-18 11:55:51,367 [WARNING] ⚠️ Nome do produto não encontrado
+2026-03-18 11:56:01,700 [INFO] 🔍 Fazendo scraping: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-...
+2026-03-18 11:56:03,223 [WARNING] ⚠️ Nome do produto não encontrado
+2026-03-18 11:58:45,645 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 11:58:45,645 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 11:58:45,646 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 11:58:45,647 [INFO] 🚀 Iniciando bot...
+2026-03-18 11:58:45,648 [INFO] logging in using static token
+2026-03-18 11:58:47,026 [INFO] Shard ID None has connected to Gateway (Session ID: 447c29975f54453c584b77dc1138e009).
+2026-03-18 11:58:49,029 [INFO] ✅ Bot conectado como fiscal de preco#3962 (ID: 1483193826893107291)
+2026-03-18 11:58:49,029 [INFO] 🔄 Loop de monitoramento iniciado (intervalo: 10 min)
+2026-03-18 11:58:49,029 [INFO] 🔄 Iniciando ciclo de verificação de preços...
+2026-03-18 11:58:49,030 [INFO] 📭 Nenhum produto cadastrado para monitoramento.
+2026-03-18 11:58:59,317 [INFO] 🔍 Fazendo scraping: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-...
+2026-03-18 11:59:00,338 [WARNING] ⚠️ Nome do produto não encontrado
+2026-03-18 12:00:51,380 [INFO] 🔍 Fazendo scraping: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-...
+2026-03-18 12:00:52,498 [WARNING] ⚠️ Nome do produto não encontrado
+2026-03-18 12:05:11,004 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 12:05:11,004 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 12:05:11,006 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 12:05:11,006 [INFO] 🚀 Iniciando bot...
+2026-03-18 12:05:11,008 [INFO] logging in using static token
+2026-03-18 12:05:12,491 [INFO] Shard ID None has connected to Gateway (Session ID: c69d672d5fec4365f8c1e509ee6eee9e).
+2026-03-18 12:05:14,493 [INFO] ✅ Bot conectado como fiscal de preco#3962 (ID: 1483193826893107291)
+2026-03-18 12:05:14,494 [INFO] 🔄 Loop de monitoramento iniciado (intervalo: 10 min)
+2026-03-18 12:05:14,494 [INFO] 🔄 Iniciando ciclo de verificação de preços...
+2026-03-18 12:05:14,495 [INFO] 📭 Nenhum produto cadastrado para monitoramento.
+2026-03-18 12:05:31,591 [INFO] 🔍 Fazendo scraping: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-...
+2026-03-18 12:05:32,770 [WARNING] ⚠️ Nome do produto não encontrado
+2026-03-18 12:06:09,137 [INFO] 🔍 Fazendo scraping: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-...
+2026-03-18 12:06:10,627 [WARNING] ⚠️ Nome do produto não encontrado
+2026-03-18 12:15:14,495 [INFO] 🔄 Iniciando ciclo de verificação de preços...
+2026-03-18 12:15:14,496 [INFO] 📭 Nenhum produto cadastrado para monitoramento.
+2026-03-18 12:18:04,935 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 12:18:04,936 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 12:18:04,936 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 12:18:04,937 [INFO] 🚀 Iniciando bot...
+2026-03-18 12:18:04,938 [INFO] logging in using static token
+2026-03-18 12:18:06,243 [INFO] Shard ID None has connected to Gateway (Session ID: b13d99b9b711003d93812cc5010cadc3).
+2026-03-18 12:18:08,245 [INFO] ✅ Bot conectado como fiscal de preco#3962 (ID: 1483193826893107291)
+2026-03-18 12:18:08,246 [INFO] 🔄 Loop de monitoramento iniciado (intervalo: 10 min)
+2026-03-18 12:18:08,246 [INFO] 🔄 Iniciando ciclo de verificação de preços...
+2026-03-18 12:18:08,246 [INFO] 📭 Nenhum produto cadastrado para monitoramento.
+2026-03-18 12:18:18,334 [INFO] 🔍 Fazendo scraping: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-...
+2026-03-18 12:18:21,657 [WARNING] ⚠️ Nome não encontrado. Title da página: 'N/A'
+2026-03-18 12:18:29,982 [INFO] 🔍 Fazendo scraping: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-...
+2026-03-18 12:18:33,424 [WARNING] ⚠️ Nome não encontrado. Title da página: 'N/A'
+2026-03-18 12:18:55,853 [INFO] 🔍 Fazendo scraping: https://produto.mercadolivre.com.br/MLB-3756911067-kit-6-cuecas-boxer-polo-wear-...
+2026-03-18 12:19:00,013 [WARNING] ⚠️ Nome não encontrado. Title da página: 'N/A'
+2026-03-18 12:24:11,075 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 12:24:11,075 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 12:24:11,076 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 12:24:11,077 [INFO] 🚀 Iniciando bot...
+2026-03-18 12:24:11,078 [INFO] logging in using static token
+2026-03-18 12:24:12,541 [INFO] Shard ID None has connected to Gateway (Session ID: dbc20250455c278d26621a2d7ed8b15f).
+2026-03-18 12:24:14,543 [INFO] ✅ Bot conectado como fiscal de preco#3962 (ID: 1483193826893107291)
+2026-03-18 12:24:14,543 [INFO] 🔄 Loop de monitoramento iniciado (intervalo: 10 min)
+2026-03-18 12:24:14,544 [INFO] 🔄 Iniciando ciclo de verificação de preços...
+2026-03-18 12:24:14,544 [INFO] 📭 Nenhum produto cadastrado para monitoramento.
+2026-03-18 12:24:44,161 [INFO] Processando URL: https://produto.mercadolivre.com.br/MLB-3756911067-kit-6-cuecas-boxer-polo-wear-...
+2026-03-18 12:24:44,595 [ERROR] Erro ao buscar item MLB3756911067: 403 Client Error: Forbidden for url: https://api.mercadolibre.com/items/MLB3756911067
+2026-03-18 12:24:44,596 [ERROR] Nao foi possivel obter dados do produto pela API.
+2026-03-18 12:24:55,303 [INFO] Processando URL: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultramarine-distribuidor-...
+2026-03-18 12:24:56,195 [ERROR] Erro ao buscar produto MLB1040287800: 403 Client Error: Forbidden for url: https://api.mercadolibre.com/products/MLB1040287800/items
+2026-03-18 12:24:56,649 [ERROR] Erro ao buscar item MLB1040287800: 403 Client Error: Forbidden for url: https://api.mercadolibre.com/items/MLB1040287800
+2026-03-18 12:24:56,652 [ERROR] Nao foi possivel obter dados do produto pela API.
+2026-03-18 12:34:14,556 [INFO] 🔄 Iniciando ciclo de verificação de preços...
+2026-03-18 12:34:14,557 [INFO] 📭 Nenhum produto cadastrado para monitoramento.
+2026-03-18 12:44:14,544 [INFO] 🔄 Iniciando ciclo de verificação de preços...
+2026-03-18 12:44:14,545 [INFO] 📭 Nenhum produto cadastrado para monitoramento.
+2026-03-18 13:44:45,110 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 13:44:45,110 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 13:44:45,111 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 13:44:45,112 [INFO] 🚀 Iniciando bot...
+2026-03-18 13:44:45,114 [INFO] logging in using static token
+2026-03-18 13:44:46,630 [INFO] Shard ID None has connected to Gateway (Session ID: 5707a6854b2afff5751676b7399c9ab5).
+2026-03-18 13:44:48,635 [INFO] ✅ Bot conectado como fiscal de preco#3962 (ID: 1483193826893107291)
+2026-03-18 13:44:48,635 [INFO] 🔄 Loop iniciado (intervalo: 480 min)
+2026-03-18 13:44:48,636 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 13:44:48,636 [INFO] 📭 Nenhum produto cadastrado.
+2026-03-18 13:44:57,164 [INFO] Buscando por nome: https://www.mercadolivre.com.br/apple-iphone-16-128-gb-ultra
+2026-03-18 13:44:58,579 [ERROR] Erro ao buscar produto: SerpAPI: Amazon hasn't returned any results for this query.
+2026-03-18 13:45:18,290 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 13:45:22,303 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:45:22,310 [INFO] ➕ Produto adicionado ao DB: ID=1, Apple iPhone 16 (128 GB) – Branco, R$ 4775.56
+2026-03-18 13:45:22,848 [INFO] felipim8898 adicionou: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:47:36,280 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:47:44,765 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:47:44,774 [INFO] ➕ Produto adicionado ao DB: ID=2, Bateria compatível com bateria de telefo, R$ 111.64
+2026-03-18 13:47:45,122 [INFO] felipim8898 adicionou: Bateria compatível com bateria de telefone Moto G6 | R$ 111.64
+2026-03-18 13:48:57,689 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 13:48:57,689 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 13:48:57,690 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 13:48:57,691 [INFO] 🚀 Iniciando bot...
+2026-03-18 13:48:57,692 [INFO] logging in using static token
+2026-03-18 13:48:59,116 [INFO] Shard ID None has connected to Gateway (Session ID: 0bf004b13edbdfd1c6942ae373c1e9dd).
+2026-03-18 13:49:01,117 [INFO] ✅ Bot conectado como fiscal de preco#3962 (ID: 1483193826893107291)
+2026-03-18 13:49:01,117 [INFO] 🔄 Loop iniciado (intervalo: 2 min)
+2026-03-18 13:49:01,118 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 13:49:01,118 [INFO] 📦 Verificando 2 produto(s) (consome 2 busca(s) SerpAPI)...
+2026-03-18 13:49:01,118 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 13:49:01,119 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 13:49:01,434 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:49:01,438 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 13:49:04,441 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 13:49:04,442 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:49:04,743 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:49:04,752 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 13:49:07,752 [INFO] ✅ Ciclo concluído.
+2026-03-18 13:51:01,118 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 13:51:01,119 [INFO] 📦 Verificando 2 produto(s) (consome 2 busca(s) SerpAPI)...
+2026-03-18 13:51:01,119 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 13:51:01,119 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 13:51:01,438 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:51:01,442 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 13:51:04,444 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 13:51:04,445 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:51:04,732 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:51:04,736 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 13:51:07,739 [INFO] ✅ Ciclo concluído.
+2026-03-18 13:53:01,118 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 13:53:01,119 [INFO] 📦 Verificando 2 produto(s) (consome 2 busca(s) SerpAPI)...
+2026-03-18 13:53:01,120 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 13:53:01,120 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 13:53:01,476 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:53:01,493 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 13:53:04,494 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 13:53:04,495 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:53:04,779 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:53:04,788 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 13:53:07,789 [INFO] ✅ Ciclo concluído.
+2026-03-18 13:53:10,064 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:53:10,359 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:53:10,366 [INFO] ➕ Produto adicionado ao DB: ID=3, Bateria compatível com bateria de telefo, R$ 111.64
+2026-03-18 13:53:10,763 [INFO] felipim8898 adicionou: Bateria compatível com bateria de telefone Moto G6 | R$ 111.64
+2026-03-18 13:55:01,119 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 13:55:01,120 [INFO] 📦 Verificando 3 produto(s) (consome 3 busca(s) SerpAPI)...
+2026-03-18 13:55:01,120 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 13:55:01,120 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 13:55:01,410 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:55:01,414 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 13:55:04,420 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 13:55:04,420 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:55:04,716 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:55:04,721 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 13:55:07,721 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 13:55:07,722 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:55:08,002 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:55:08,007 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 13:55:11,008 [INFO] ✅ Ciclo concluído.
+2026-03-18 13:55:15,514 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2026-03-18 13:55:15,514 [WARNING] davey is not installed, voice will NOT be supported
+2026-03-18 13:55:15,515 [INFO] 📦 Banco de dados inicializado: products.db
+2026-03-18 13:55:15,516 [INFO] 🚀 Iniciando bot...
+2026-03-18 13:55:15,517 [INFO] logging in using static token
+2026-03-18 13:55:17,006 [INFO] Shard ID None has connected to Gateway (Session ID: 192434cedb30569b16dee10f254a1925).
+2026-03-18 13:55:19,011 [INFO] ✅ Bot conectado como fiscal de preco#3962 (ID: 1483193826893107291)
+2026-03-18 13:55:19,011 [INFO] 🔄 Loop iniciado (intervalo: 2 min)
+2026-03-18 13:55:19,012 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 13:55:19,013 [INFO] 📦 Verificando 3 produto(s) (consome 3 busca(s) SerpAPI)...
+2026-03-18 13:55:19,013 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 13:55:19,014 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 13:55:19,306 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:55:19,308 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 13:55:22,309 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 13:55:22,309 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:55:22,599 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:55:22,601 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 13:55:25,602 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 13:55:25,602 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:55:25,874 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:55:25,876 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 13:55:28,877 [INFO] ✅ Ciclo concluído.
+2026-03-18 13:55:39,982 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:55:40,250 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:55:40,257 [INFO] ➕ Produto adicionado ao DB: ID=4, Bateria compatível com bateria de telefo, R$ 111.64
+2026-03-18 13:55:40,536 [INFO] felipim8898 adicionou: Bateria compatível com bateria de telefone Moto G6 | R$ 111.64
+2026-03-18 13:56:07,736 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 13:56:07,737 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 13:56:08,024 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:56:08,030 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 13:57:19,012 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 13:57:19,013 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 13:57:19,013 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 13:57:19,013 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 13:57:19,295 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:57:19,299 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 13:57:22,300 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 13:57:22,301 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:57:22,571 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:57:22,578 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 13:57:25,580 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 13:57:25,580 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:57:25,859 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:57:25,865 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 13:57:28,866 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 13:57:28,867 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:57:29,155 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:57:29,160 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 13:57:32,161 [INFO] ✅ Ciclo concluído.
+2026-03-18 13:59:19,012 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 13:59:19,013 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 13:59:19,013 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 13:59:19,013 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 13:59:19,283 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 13:59:19,289 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 13:59:22,290 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 13:59:22,291 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:59:22,562 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:59:22,567 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 13:59:25,568 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 13:59:25,568 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:59:25,839 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:59:25,844 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 13:59:28,846 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 13:59:28,846 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 13:59:29,115 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 13:59:29,120 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 13:59:32,120 [INFO] ✅ Ciclo concluído.
+2026-03-18 14:01:19,012 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 14:01:19,013 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 14:01:19,013 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 14:01:19,013 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 14:01:19,298 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 14:01:19,303 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 14:01:22,303 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 14:01:22,304 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:01:22,576 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:01:22,581 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 14:01:25,581 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 14:01:25,581 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:01:25,851 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:01:25,856 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 14:01:28,857 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 14:01:28,858 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:01:29,135 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:01:29,139 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 14:01:32,141 [INFO] ✅ Ciclo concluído.
+2026-03-18 14:03:19,012 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 14:03:19,013 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 14:03:19,013 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 14:03:19,013 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 14:03:19,291 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 14:03:19,299 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 14:03:22,299 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 14:03:22,299 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:03:22,571 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:03:22,578 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 14:03:25,590 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 14:03:25,590 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:03:25,860 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:03:25,867 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 14:03:28,868 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 14:03:28,868 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:03:29,142 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:03:29,147 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 14:03:32,147 [INFO] ✅ Ciclo concluído.
+2026-03-18 14:05:19,013 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 14:05:19,014 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 14:05:19,014 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 14:05:19,014 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 14:05:19,288 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 14:05:19,295 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 14:05:22,295 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 14:05:22,296 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:05:22,587 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:05:22,597 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 14:05:25,598 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 14:05:25,599 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:05:25,879 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:05:25,884 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 14:05:28,885 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 14:05:28,885 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:05:29,176 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:05:29,181 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 14:05:32,183 [INFO] ✅ Ciclo concluído.
+2026-03-18 14:07:19,013 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 14:07:19,014 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 14:07:19,014 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 14:07:19,014 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 14:07:19,319 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 14:07:19,326 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 14:07:22,327 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 14:07:22,327 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:07:22,753 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:07:22,758 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 14:07:25,759 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 14:07:25,760 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:07:26,089 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:07:26,098 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 14:07:29,098 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 14:07:29,099 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:07:29,444 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:07:29,450 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 14:07:32,450 [INFO] ✅ Ciclo concluído.
+2026-03-18 14:09:19,013 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 14:09:19,014 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 14:09:19,014 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 14:09:19,014 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 14:09:19,307 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 14:09:19,313 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 14:09:22,315 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 14:09:22,316 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:09:22,603 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:09:22,608 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 14:09:25,609 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 14:09:25,609 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:09:25,882 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:09:25,888 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 14:09:28,890 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 14:09:28,890 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:09:29,164 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:09:29,170 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 14:09:32,171 [INFO] ✅ Ciclo concluído.
+2026-03-18 14:11:19,012 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 14:11:19,013 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 14:11:19,013 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 14:11:19,014 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 14:11:19,290 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 14:11:19,295 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 14:11:22,296 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 14:11:22,296 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:11:22,570 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:11:22,577 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 14:11:25,578 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 14:11:25,579 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:11:25,863 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:11:25,867 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 14:11:28,868 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 14:11:28,869 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:11:29,143 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:11:29,148 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 14:11:32,151 [INFO] ✅ Ciclo concluído.
+2026-03-18 14:11:41,240 [INFO] Shard ID None has successfully RESUMED session 192434cedb30569b16dee10f254a1925.
+2026-03-18 14:13:19,013 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 14:13:19,013 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 14:13:19,014 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 14:13:19,014 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 14:13:19,335 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 14:13:19,341 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 14:13:22,341 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 14:13:22,342 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:13:22,614 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:13:22,620 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 14:13:25,622 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 14:13:25,623 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:13:25,898 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:13:25,903 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 14:13:28,904 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 14:13:28,905 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:13:29,175 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:13:29,179 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 14:13:32,180 [INFO] ✅ Ciclo concluído.
+2026-03-18 14:15:19,012 [INFO] 🔄 Iniciando ciclo de verificação...
+2026-03-18 14:15:19,013 [INFO] 📦 Verificando 4 produto(s) (consome 4 busca(s) SerpAPI)...
+2026-03-18 14:15:19,013 [INFO] 🔍 Verificando: [1] Apple iPhone 16 (128 GB) – Branco...
+2026-03-18 14:15:19,014 [INFO] Buscando ASIN: B0DJFTCKNN
+2026-03-18 14:15:19,284 [INFO] Produto encontrado: Apple iPhone 16 (128 GB) – Branco | R$ 4775.56
+2026-03-18 14:15:19,289 [INFO] ✅ Preço inalterado: [1] R$ 4775.56
+2026-03-18 14:15:22,291 [INFO] 🔍 Verificando: [2] Bateria compatível com bateria de telefo...
+2026-03-18 14:15:22,291 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:15:22,560 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:15:22,567 [INFO] ✅ Preço inalterado: [2] R$ 111.64
+2026-03-18 14:15:25,568 [INFO] 🔍 Verificando: [3] Bateria compatível com bateria de telefo...
+2026-03-18 14:15:25,568 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:15:25,839 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:15:25,844 [INFO] ✅ Preço inalterado: [3] R$ 111.64
+2026-03-18 14:15:28,845 [INFO] 🔍 Verificando: [4] Bateria compatível com bateria de telefo...
+2026-03-18 14:15:28,846 [INFO] Buscando ASIN: B0GL1H7JP1
+2026-03-18 14:15:29,112 [INFO] Produto encontrado: Bateria compatível com bateria de telefone Moto G60S XT2133- | R$ 111.64
+2026-03-18 14:15:29,117 [INFO] ✅ Preço inalterado: [4] R$ 111.64
+2026-03-18 14:15:32,118 [INFO] ✅ Ciclo concluído.
